@@ -4,6 +4,9 @@ Este repositório contém meus exercícios e projetos feitos durante o curso de 
 
 ## Estrutura
 - `aula1.py` → Exercícios de if
+- `aula90.py` → lista de comprar com listas
+
+
 
 
 ## Objetivo
